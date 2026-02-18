@@ -1,0 +1,2 @@
+line height:line ke beech ka distance
+rgba: a is alpha hm ise color ki transparency set kr skte hai(r,g,b,a)
