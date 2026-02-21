@@ -1,0 +1,12 @@
+Block Element: ye elemnt pura space lete hau extreme left se extreme right, new line me ate hai, cutom width height respect
+->div      
+->p
+->h1
+
+box-sizing border box:without this actual box ki width inc ho jati hai jab tum maargin , padding vagreh laga to ho
+
+Inline Element: same line me aane kya try krte hai  ,  width by default utni hogi jitna content
+a
+span
+
+sticky:paret container ke andar hi sticky rehta hai
